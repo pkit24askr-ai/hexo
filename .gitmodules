@@ -1,0 +1,3 @@
+[submodule "themes/mokusei"]
+	path = themes/mokusei
+	url = https://github.com/iengu/hexo-theme-mokusei.git
